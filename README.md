@@ -1,2 +1,2 @@
 # LittleAlchemyCheat
-Android app cheat sheet for Little Alchemy using Firebase
+[WIP] Android app that gives element pairings (served through Firebase) for Little Alchemy
